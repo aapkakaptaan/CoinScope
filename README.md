@@ -116,14 +116,6 @@ On each price update, checks if conditions are met
 
 Fires a toast notification and disables the alert (can re-enable manually)
 
-## 🏗️ Project Structure
-
-src/
-├─ components/         # React components (dashboard, lists, buttons, etc.)
-├─ hooks/              # Custom React hooks (useWallet, useTokenBalances, etc.)
-├─ utils/              # Helpers: CoinGecko API, ERC-20 ABI, localStorage
-├─ types.ts            # TypeScript types & interfaces
-└─ App.tsx             # Main app entry
 
 ##  ✅ Technologies Used
 
