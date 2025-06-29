@@ -1,4 +1,4 @@
-# 🪙 CoinScope
+# 🪙 CoinScope -https://coin-scope-kdz0slgs0-aapkakaptaans-projects.vercel.app/
 
 Real-time crypto portfolio tracker built with React, ethers.js & CoinGecko API.Connect your MetaMask wallet, track token balances and prices on Ethereum & Polygon, set custom price alerts, and monitor your crypto portfolio with an intuitive interface.
 
